@@ -6,6 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm looking for an internship in the backend area
+- 🌱 Currently studying English on Wizard by Person, with 2 years left until graduation
 - 🌱 I’m currently learning Java, SQL
 - 👯 I’m looking to collaborate on big projects
 - 🤔 I’m looking for help with learn java in general
