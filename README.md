@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Joaquim and my nickname is "Joaquim-Moraes"!
-I currently study at São Judas College studying Computer Science, I have been learning how to work with Java and database fundamentals.
+I'm currently attending college studying Computer Science, I have been learning how to work with Java and database fundamentals.
 I am a person passionate about technology since I was a child, I spend hours on the computer messing around and having fun with it, I am also deeply passionate about sports and physical activities and I also believe that respect for others has to come above all.
 I'm looking for a work environment that is respectful and where I can use and increase my knowledge, in addition to wanting to have a good relationship with my co-workers.
 Starting a python course currently
