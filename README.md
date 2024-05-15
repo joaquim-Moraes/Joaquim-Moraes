@@ -21,7 +21,9 @@ I'm looking for a work environment that is respectful and where I can use and in
 Starting a python course currently
 ## Tecnologias Usadas: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"  width="40" height="40" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"  width="40" height="40" /> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"  width = "40" height="40"/>
+          
 
 ## Contatos:
 
