@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: joaquimsp2006@gmail.com
 - ⚡ Fun fact: I love sports
 -->
+<img src="https://25.media.tumblr.com/f63852625436c694a7f791c18e79444b/tumblr_murugzcbAT1rwbefvo1_500.gif" width = "1000px" /> 
+
+
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Joaquim and my nickname is "Joaquim-Moraes"!
 I'm currently attending college studying Computer Science, I have been learning how to work with Java and database fundamentals.
