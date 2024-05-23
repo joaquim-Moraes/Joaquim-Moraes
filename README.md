@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: joaquimsp2006@gmail.com
 - ⚡ Fun fact: I love sports
 -->
-<img src="https://25.media.tumblr.com/f63852625436c694a7f791c18e79444b/tumblr_murugzcbAT1rwbefvo1_500.gif" width = "1000px" /> 
+<img src="https://i.gifer.com/origin/0e/0e47dfcd0b1eae212aae132fd4084a4e_w200.gif" width = "1000px" height = "400px" /> 
 
 
 # 👋 Hello! Welcome to my Github profile.
